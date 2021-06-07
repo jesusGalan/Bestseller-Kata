@@ -16,5 +16,7 @@ Are there any changes you could ask for to make the implementation easier?
 What would be the impact if they later came back and said:
 
 only update the list once per day; or
+
 we need the list updated in real time: each time the home page is displayed we need the list to reflect the 24 hours up until that point.
+
 This kata might be deeper than it first appears. You might want to consider database vs. in-memory solutions, data structures that allow aging, time-space tradeoffs, and the like.
